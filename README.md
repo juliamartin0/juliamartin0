@@ -2,6 +2,8 @@
 <h1 align='center'>Hey, I'm Julia!
 </div>
 <img src=banner.png>
+
+  
 - 👋 Hi, I’m @juliamartin0
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
