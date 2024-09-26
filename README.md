@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Julia!</h1>
-
-<img src="[banner.png](https://github.com/juliamartin0/juliamartin0/blob/main/Banner%20Linkedin%20Creativo%20Acuarelas%20Sencillo%20Rosa%20y%20Morado.png)" alt="Banner" style="display: block; margin: 0 auto;">
-
+<div align='center'>
+<h1 align='center'>Hey, I'm Julia!
+</div>
+<img src=![image](https://github.com/user-attachments/assets/f3b5c178-66d1-4b7b-b44a-3dc836bf623f)>
 
   
 - 👋 Hi, I’m @juliamartin0
