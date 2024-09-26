@@ -1,11 +1,7 @@
 <div align='center'>
-  <h1>Hey, I'm Julia!</h1>
+<h1 align='center'>Hey, I'm Julia!
 </div>
-
-<div align='center'>
-  <img src='banner.png' alt='Banner Image' style='margin-bottom: 10px;'>
-</div>
-
+<img src=banner.png>
 - 👋 Hi, I’m @juliamartin0
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
