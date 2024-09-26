@@ -1,7 +1,7 @@
-<div align='center'>
-<h1 align='center'>Hey, I'm Julia!
-</div>
-<img src=banner.png>
+<h1 align="center">Hey, I'm Julia!</h1>
+
+<img src="banner.png" alt="Banner" style="display: block; margin: 0 auto;">
+
 
   
 - 👋 Hi, I’m @juliamartin0
