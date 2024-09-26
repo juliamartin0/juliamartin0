@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Julia!</h1>
 
-<img src="banner.png" alt="Banner" style="display: block; margin: 0 auto;">
+<img src="[banner.png](https://github.com/juliamartin0/juliamartin0/blob/main/Banner%20Linkedin%20Creativo%20Acuarelas%20Sencillo%20Rosa%20y%20Morado.png)" alt="Banner" style="display: block; margin: 0 auto;">
 
 
   
