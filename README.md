@@ -1,8 +1,7 @@
 <div align='center'>
 <h1 align='center'>Hey, I'm Julia!
 </div>
-<img src=![image](https://github.com/user-attachments/assets/54b71dd5-3b6f-4aff-bf74-bfe0f517b94b)
->
+<img src=![banner](https://github.com/user-attachments/assets/4feb3e51-fcbc-4289-8a7f-4235a1e3ef2b)>
 
 
 
