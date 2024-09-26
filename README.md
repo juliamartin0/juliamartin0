@@ -8,7 +8,7 @@
 - 👀 I’m passionate about using data to tell stories and uncover what lies underneath to help businesses out.
 - 🌱 Right now, I’m diving deeper into deep learning and generative AI.
 - 💞️ I’m looking to collaborate on projects that involve solving real-world problems in economics, healthcare, sustainability, or any other field where data can offer valuable insights.
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/juliamarur) or drop me an email at: juliadatascience24@gmail.com
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/juliamarur) or drop me an email at: juliadatascience24@gmail.com
 - ⚡ Fun fact: I’m a sucker for good data visualizations—if I’m not tweaking Tableau dashboards, I’m probably trying to turn random datasets into something cool!
 
 
