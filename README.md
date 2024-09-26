@@ -1,7 +1,7 @@
 <div align='center'>
 <h1 align='center'>Hey, I'm Julia!
 </div>
-<img src=![image](https://github.com/user-attachments/assets/f3b5c178-66d1-4b7b-b44a-3dc836bf623f)>
+<img src=Banner Linkedin Creativo Acuarelas Sencillo Rosa y Morado.png>
 
   
 - 👋 Hi, I’m @juliamartin0
