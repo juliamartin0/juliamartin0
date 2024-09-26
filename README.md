@@ -1,12 +1,10 @@
 <div align='center'>
-<h1 align='center'>Hey, I'm Julia!
+  <h1>Hey, I'm Julia!</h1>
 </div>
-<img src=banner.png>
 
-
-
-
-
+<div align='center'>
+  <img src='banner.png' alt='Banner Image' style='margin-bottom: 10px;'>
+</div>
 
 - 👋 Hi, I’m @juliamartin0
 - 👀 I’m interested in ...
@@ -15,6 +13,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
 <!---
 juliamartin0/juliamartin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
