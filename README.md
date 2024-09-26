@@ -3,6 +3,7 @@
 </div>
 <img src=https://github.com/juliamartin0/juliamartin0/blob/43c66f0bf4c6c0569f7e962315240f1bb9ff357b/Banner%20Linkedin%20Creativo%20Acuarelas%20Sencillo%20Rosa%20y%20Morado.png>
 
+## About me
   
 - 👋 Hi, I’m Julia, an economist and data scientist who loves digging into data!
 - 👀 I’m passionate about using data to tell stories and uncover what lies underneath to help businesses out.
