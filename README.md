@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 
 
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 #
 
 
-## 🛠 Latest Projects
+## Latest Projects
 
 
 <div style="text-align: center;">
