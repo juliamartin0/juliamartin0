@@ -39,3 +39,30 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 #
+
+---
+
+## 🧪 Análisis Temporal de Ventas en una Farmacia
+
+[![Análisis Temporal de Ventas](https://via.placeholder.com/600x400.png?text=Análisis+de+Ventas+Farmacéuticas)](https://github.com/tu_usuario/tu_repositorio_proyecto1)
+**Análisis Temporal de Ventas de una Farmacia**  
+Descripción breve del proyecto: Este proyecto consiste en un análisis de las ventas diarias de una cadena de farmacias durante los últimos 5 años. Se implementaron técnicas de análisis de series temporales para identificar patrones y pronosticar ventas futuras.  
+🔗 [Ver el proyecto completo](https://github.com/tu_usuario/tu_repositorio_proyecto1)
+
+---
+
+## 📊 Visualización de Datos de Productos en Power BI
+
+[![Visualización Power BI](https://via.placeholder.com/600x400.png?text=Power+BI+Productos)](https://github.com/tu_usuario/tu_repositorio_proyecto2)
+**Dashboard de Productos Farmacéuticos en Power BI**  
+Descripción breve del proyecto: Creación de un dashboard interactivo en Power BI que permite visualizar el rendimiento de ventas de productos farmacéuticos, segmentados por categorías, zonas geográficas y tiempo.  
+🔗 [Ver el proyecto completo](https://github.com/tu_usuario/tu_repositorio_proyecto2)
+
+---
+
+## 🧬 Análisis Predictivo de Inventario en Python
+
+[![Análisis Predictivo](https://via.placeholder.com/600x400.png?text=Análisis+Predictivo)](https://github.com/tu_usuario/tu_repositorio_proyecto3)
+**Modelo Predictivo de Inventario en una Farmacia**  
+Descripción breve del proyecto: Uso de modelos de machine learning para predecir el nivel de inventario necesario en distintas sucursales de la farmacia, optimizando costos y reduciendo productos caducados.  
+🔗 [Ver el proyecto completo](https://github.com/tu_usuario/tu_repositorio_proyecto3)
