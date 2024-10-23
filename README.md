@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
+
 
 
 <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -40,10 +41,12 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 
+
 #
 
 
 ## 🛠 Latest Projects
+
 
 <div style="text-align: center;">
   <h4 style="margin: 0;">Temporal Analysis of Pharmaceutical Sales</h4>
