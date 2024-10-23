@@ -44,9 +44,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Latest Projects
 
-### Temporal Analysis of Pharmaceutical Sales
-<a href="https://github.com/tu_usuario/tu_repositorio_proyecto1">
-  <img src="https://www.thieme.de/statics/bilder/thieme/final/en/bilder/tw_chemistry/PS-D-Update.jpg" alt="Temporal Analysis of Pharmaceutical Sales" />
-</a>
+<div style="text-align: center;">
+  <h4 style="margin: 0;">Temporal Analysis of Pharmaceutical Sales</h4>
+  <a href="https://github.com/tu_usuario/tu_repositorio_proyecto1">
+    <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="250" height="250" />
+  </a>
+</div>
+
 
 #
