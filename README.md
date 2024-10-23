@@ -42,66 +42,40 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+## 🛠 Proyectos Recientes
 
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+
+  <!-- Proyecto 1 -->
   <div style="text-align: center;">
     <a href="https://github.com/tu_usuario/tu_repositorio_proyecto1">
-      <img src="https://via.placeholder.com/300x200.png?text=Análisis+de+Ventas+Farmacéuticas" alt="Análisis Temporal de Ventas" width="300px" />
+      <img src="https://via.placeholder.com/300x200.png?text=Análisis+de+Ventas+Farmacéuticas" alt="Análisis Temporal de Ventas" width="100%" />
     </a>
     <br />
     <strong>Análisis Temporal de Ventas</strong>
     <p>Un análisis detallado de las ventas diarias en farmacias usando series temporales.</p>
   </div>
 
+  <!-- Proyecto 2 -->
   <div style="text-align: center;">
     <a href="https://github.com/tu_usuario/tu_repositorio_proyecto2">
-      <img src="https://via.placeholder.com/300x200.png?text=Power+BI+Productos" alt="Power BI" width="300px" />
+      <img src="https://via.placeholder.com/300x200.png?text=Power+BI+Productos" alt="Power BI" width="100%" />
     </a>
     <br />
     <strong>Dashboard de Productos en Power BI</strong>
     <p>Dashboard interactivo para monitorear el rendimiento de productos farmacéuticos.</p>
   </div>
 
+  <!-- Proyecto 3 -->
   <div style="text-align: center;">
     <a href="https://github.com/tu_usuario/tu_repositorio_proyecto3">
-      <img src="https://via.placeholder.com/300x200.png?text=Análisis+Predictivo" alt="Análisis Predictivo de Inventario" width="300px" />
+      <img src="https://via.placeholder.com/300x200.png?text=Análisis+Predictivo" alt="Análisis Predictivo de Inventario" width="100%" />
     </a>
     <br />
     <strong>Análisis Predictivo de Inventario</strong>
     <p>Predicción de niveles de inventario en farmacias usando machine learning.</p>
   </div>
 
-</div>
-
-<br /><br />
-
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="text-align: center;">
-    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto4">
-      <img src="https://via.placeholder.com/300x200.png?text=Proyecto+4" alt="Proyecto 4" width="300px" />
-    </a>
-    <br />
-    <strong>Nombre del Proyecto 4</strong>
-    <p>Descripción breve del proyecto 4.</p>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto5">
-      <img src="https://via.placeholder.com/300x200.png?text=Proyecto+5" alt="Proyecto 5" width="300px" />
-    </a>
-    <br />
-    <strong>Nombre del Proyecto 5</strong>
-    <p>Descripción breve del proyecto 5.</p>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto6">
-      <img src="https://via.placeholder.com/300x200.png?text=Proyecto+6" alt="Proyecto 6" width="300px" />
-    </a>
-    <br />
-    <strong>Nombre del Proyecto 6</strong>
-    <p>Descripción breve del proyecto 6.</p>
-  </div>
-
+  <!-- Puedes añadir más proyectos aquí de la misma manera -->
+  
 </div>
