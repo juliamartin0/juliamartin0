@@ -42,63 +42,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🛠 Proyectos Recientes
+### 🛠 Latest Projects
 
-<style>
-  .proyectos-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px; /* Espacio entre los proyectos */
-    width: 300px; /* Ancho total del contenedor */
-    height: 300px; /* Alto total del contenedor */
-    overflow: hidden; /* Oculta el contenido que excede el contenedor */
-    position: relative;
-  }
+<!-- BEGIN YOUTUBE-CARDS -->
+[https://www.consalud.es/salud35/uploads/s1/16/10/82/5/la-industria-farmaceutica-invirtio-39-000-millones-de-euros-en-investigacion-en-2020.jpeg]
 
-  .proyecto {
-    text-align: center;
-  }
+<!-- END YOUTUBE-CARDS -->
 
-  .proyecto img {
-    width: 100%; /* Imagen ocupa todo el ancho del contenedor */
-    height: auto; /* Mantiene la relación de aspecto de la imagen */
-  }
-</style>
 
-<div class="proyectos-container">
-  <!-- Proyecto 1 -->
-  <div class="proyecto">
-    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto1">
-      <img src="https://via.placeholder.com/150x100.png?text=Análisis+de+Ventas" alt="Análisis Temporal de Ventas" />
-    </a>
-    <strong>Análisis Temporal de Ventas</strong>
-    <p>Ventas diarias en farmacias.</p>
-  </div>
-
-  <!-- Proyecto 2 -->
-  <div class="proyecto">
-    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto2">
-      <img src="https://via.placeholder.com/150x100.png?text=Dashboard+Power+BI" alt="Dashboard de Productos en Power BI" />
-    </a>
-    <strong>Dashboard de Productos</strong>
-    <p>Rendimiento de productos farmacéuticos.</p>
-  </div>
-
-  <!-- Proyecto 3 -->
-  <div class="proyecto">
-    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto3">
-      <img src="https://via.placeholder.com/150x100.png?text=Análisis+Predictivo" alt="Análisis Predictivo de Inventario" />
-    </a>
-    <strong>Análisis Predictivo de Inventario</strong>
-    <p>Predicción de niveles de inventario.</p>
-  </div>
-
-  <!-- Proyecto 4 -->
-  <div class="proyecto">
-    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto4">
-      <img src="https://via.placeholder.com/150x100.png?text=Gestión+de+Inventario" alt="Gestión de Inventario" />
-    </a>
-    <strong>Gestión de Inventario</strong>
-    <p>Optimización de existencias.</p>
-  </div>
-</div>
+#
