@@ -44,10 +44,10 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠 Latest Projects
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[https://www.consalud.es/salud35/uploads/s1/16/10/82/5/la-industria-farmaceutica-invirtio-39-000-millones-de-euros-en-investigacion-en-2020.jpeg]
-
-<!-- END YOUTUBE-CARDS -->
+[![Análisis Temporal de Ventas](https://via.placeholder.com/300x200.png?text=Análisis+de+Ventas)](https://github.com/tu_usuario/tu_repositorio_proyecto1)
+[![Dashboard de Productos](https://via.placeholder.com/300x200.png?text=Dashboard+Power+BI)](https://github.com/tu_usuario/tu_repositorio_proyecto2)
+[![Análisis Predictivo de Inventario](https://via.placeholder.com/300x200.png?text=Análisis+Predictivo)](https://github.com/tu_usuario/tu_repositorio_proyecto3)
+[![Gestión de Inventario](https://via.placeholder.com/300x200.png?text=Gestión+de+Inventario)](https://github.com/tu_usuario/tu_repositorio_proyecto4)
 
 
 #
