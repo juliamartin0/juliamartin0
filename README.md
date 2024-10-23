@@ -42,27 +42,66 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🧪 Análisis Temporal de Ventas en una Farmacia
+<div style="display: flex; justify-content: space-between;">
 
-[![Análisis Temporal de Ventas](https://via.placeholder.com/600x400.png?text=Análisis+de+Ventas+Farmacéuticas)](https://github.com/tu_usuario/tu_repositorio_proyecto1)
-**Análisis Temporal de Ventas de una Farmacia**  
-Descripción breve del proyecto: Este proyecto consiste en un análisis de las ventas diarias de una cadena de farmacias durante los últimos 5 años. Se implementaron técnicas de análisis de series temporales para identificar patrones y pronosticar ventas futuras.  
-🔗 [Ver el proyecto completo](https://github.com/tu_usuario/tu_repositorio_proyecto1)
+  <div style="text-align: center;">
+    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto1">
+      <img src="https://via.placeholder.com/300x200.png?text=Análisis+de+Ventas+Farmacéuticas" alt="Análisis Temporal de Ventas" width="300px" />
+    </a>
+    <br />
+    <strong>Análisis Temporal de Ventas</strong>
+    <p>Un análisis detallado de las ventas diarias en farmacias usando series temporales.</p>
+  </div>
 
----
+  <div style="text-align: center;">
+    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto2">
+      <img src="https://via.placeholder.com/300x200.png?text=Power+BI+Productos" alt="Power BI" width="300px" />
+    </a>
+    <br />
+    <strong>Dashboard de Productos en Power BI</strong>
+    <p>Dashboard interactivo para monitorear el rendimiento de productos farmacéuticos.</p>
+  </div>
 
-## 📊 Visualización de Datos de Productos en Power BI
+  <div style="text-align: center;">
+    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto3">
+      <img src="https://via.placeholder.com/300x200.png?text=Análisis+Predictivo" alt="Análisis Predictivo de Inventario" width="300px" />
+    </a>
+    <br />
+    <strong>Análisis Predictivo de Inventario</strong>
+    <p>Predicción de niveles de inventario en farmacias usando machine learning.</p>
+  </div>
 
-[![Visualización Power BI](https://via.placeholder.com/600x400.png?text=Power+BI+Productos)](https://github.com/tu_usuario/tu_repositorio_proyecto2)
-**Dashboard de Productos Farmacéuticos en Power BI**  
-Descripción breve del proyecto: Creación de un dashboard interactivo en Power BI que permite visualizar el rendimiento de ventas de productos farmacéuticos, segmentados por categorías, zonas geográficas y tiempo.  
-🔗 [Ver el proyecto completo](https://github.com/tu_usuario/tu_repositorio_proyecto2)
+</div>
 
----
+<br /><br />
 
-## 🧬 Análisis Predictivo de Inventario en Python
+<div style="display: flex; justify-content: space-between;">
 
-[![Análisis Predictivo](https://via.placeholder.com/600x400.png?text=Análisis+Predictivo)](https://github.com/tu_usuario/tu_repositorio_proyecto3)
-**Modelo Predictivo de Inventario en una Farmacia**  
-Descripción breve del proyecto: Uso de modelos de machine learning para predecir el nivel de inventario necesario en distintas sucursales de la farmacia, optimizando costos y reduciendo productos caducados.  
-🔗 [Ver el proyecto completo](https://github.com/tu_usuario/tu_repositorio_proyecto3)
+  <div style="text-align: center;">
+    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto4">
+      <img src="https://via.placeholder.com/300x200.png?text=Proyecto+4" alt="Proyecto 4" width="300px" />
+    </a>
+    <br />
+    <strong>Nombre del Proyecto 4</strong>
+    <p>Descripción breve del proyecto 4.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto5">
+      <img src="https://via.placeholder.com/300x200.png?text=Proyecto+5" alt="Proyecto 5" width="300px" />
+    </a>
+    <br />
+    <strong>Nombre del Proyecto 5</strong>
+    <p>Descripción breve del proyecto 5.</p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto6">
+      <img src="https://via.placeholder.com/300x200.png?text=Proyecto+6" alt="Proyecto 6" width="300px" />
+    </a>
+    <br />
+    <strong>Nombre del Proyecto 6</strong>
+    <p>Descripción breve del proyecto 6.</p>
+  </div>
+
+</div>
