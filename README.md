@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Temporal Analysis of Pharmaceutical Sales
 <a href="https://github.com/tu_usuario/tu_repositorio_proyecto1">
-  <img src="https://www.consalud.es/salud35/uploads/s1/16/10/82/5/la-industria-farmaceutica-invirtio-39-000-millones-de-euros-en-investigacion-en-2020.jpeg" alt="Temporal Analysis of Pharmaceutical Sales" width="250" height="250" />
+  <img src="https://www.thieme.de/statics/bilder/thieme/final/en/bilder/tw_chemistry/PS-D-Update.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="250" height="250" />
 </a>
 
 #
