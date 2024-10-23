@@ -44,38 +44,61 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Proyectos Recientes
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<style>
+  .proyectos-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px; /* Espacio entre los proyectos */
+    width: 300px; /* Ancho total del contenedor */
+    height: 300px; /* Alto total del contenedor */
+    overflow: hidden; /* Oculta el contenido que excede el contenedor */
+    position: relative;
+  }
 
+  .proyecto {
+    text-align: center;
+  }
+
+  .proyecto img {
+    width: 100%; /* Imagen ocupa todo el ancho del contenedor */
+    height: auto; /* Mantiene la relación de aspecto de la imagen */
+  }
+</style>
+
+<div class="proyectos-container">
   <!-- Proyecto 1 -->
-  <div style="text-align: center;">
+  <div class="proyecto">
     <a href="https://github.com/tu_usuario/tu_repositorio_proyecto1">
-      <img src="https://via.placeholder.com/300x200.png?text=Análisis+de+Ventas+Farmacéuticas" alt="Análisis Temporal de Ventas" width="100%" />
+      <img src="https://via.placeholder.com/150x100.png?text=Análisis+de+Ventas" alt="Análisis Temporal de Ventas" />
     </a>
-    <br />
     <strong>Análisis Temporal de Ventas</strong>
-    <p>Un análisis detallado de las ventas diarias en farmacias usando series temporales.</p>
+    <p>Ventas diarias en farmacias.</p>
   </div>
 
   <!-- Proyecto 2 -->
-  <div style="text-align: center;">
+  <div class="proyecto">
     <a href="https://github.com/tu_usuario/tu_repositorio_proyecto2">
-      <img src="https://via.placeholder.com/300x200.png?text=Power+BI+Productos" alt="Power BI" width="100%" />
+      <img src="https://via.placeholder.com/150x100.png?text=Dashboard+Power+BI" alt="Dashboard de Productos en Power BI" />
     </a>
-    <br />
-    <strong>Dashboard de Productos en Power BI</strong>
-    <p>Dashboard interactivo para monitorear el rendimiento de productos farmacéuticos.</p>
+    <strong>Dashboard de Productos</strong>
+    <p>Rendimiento de productos farmacéuticos.</p>
   </div>
 
   <!-- Proyecto 3 -->
-  <div style="text-align: center;">
+  <div class="proyecto">
     <a href="https://github.com/tu_usuario/tu_repositorio_proyecto3">
-      <img src="https://via.placeholder.com/300x200.png?text=Análisis+Predictivo" alt="Análisis Predictivo de Inventario" width="100%" />
+      <img src="https://via.placeholder.com/150x100.png?text=Análisis+Predictivo" alt="Análisis Predictivo de Inventario" />
     </a>
-    <br />
     <strong>Análisis Predictivo de Inventario</strong>
-    <p>Predicción de niveles de inventario en farmacias usando machine learning.</p>
+    <p>Predicción de niveles de inventario.</p>
   </div>
 
-  <!-- Puedes añadir más proyectos aquí de la misma manera -->
-  
+  <!-- Proyecto 4 -->
+  <div class="proyecto">
+    <a href="https://github.com/tu_usuario/tu_repositorio_proyecto4">
+      <img src="https://via.placeholder.com/150x100.png?text=Gestión+de+Inventario" alt="Gestión de Inventario" />
+    </a>
+    <strong>Gestión de Inventario</strong>
+    <p>Optimización de existencias.</p>
+  </div>
 </div>
