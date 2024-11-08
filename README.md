@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;">Sentiment Analysis Elections 2024</h4>
       <a href="https://github.com/juliamartin0/elections_2024.git">
-        <img src="https://cz.usembassy.gov/wp-content/uploads/sites/22/00Good.jpg" alt="Sentiment Analysis Elections 2024" width="300" />
+        <img src="https://media.slidesgo.com/storage/41886148/conversions/0-us-elections-2024-thumb.jpg" alt="Sentiment Analysis Elections 2024" width="300" />
       </a>
   </tr>
 </table>
