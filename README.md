@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;">Temporal Analysis of Pharmaceutical Sales</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
-        <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
+        <img src="https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Tidswell-FI.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
       </a>
     </td>
     <td style="text-align: center; vertical-align: top;">
