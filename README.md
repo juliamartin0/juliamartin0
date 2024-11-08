@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;">Heart Disease: a 10-year Prediction Model</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
-        <img src="https://domf5oio6qrcr.cloudfront.net/medialibrary/15339/49405838-9c8b-4ecc-89bb-66c541dbbe3b.jpg" alt="Heart Disease: a 10-year Prediction Model" width="300" />
+        <img src="https://www.healthcareradius.in/cloud/2024/03/22/Gazing-at-AI-led-future-of-cardiology-in-India.jpeg" alt="Heart Disease: a 10-year Prediction Model" width="300" />
       </a>
     </td>
      <td style="text-align: center; vertical-align: top;">
