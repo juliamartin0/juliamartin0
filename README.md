@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Sentiment Analysis: USA Elections 2024</h4>
       <a href="https://github.com/juliamartin0/elections_2024.git">
-        <img src="https://epe.brightspotcdn.com/dims4/default/b875b27/2147483647/strip/true/crop/7165x4862+814+0/resize/840x570!/format/webp/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Ff8%2F5e%2Fffb92dad41fda624eb1d29a37e27%2Fvoting-2098408713.jpg" alt="Sentiment Analysis Elections 2024" width="300" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Felection-2024&psig=AOvVaw0taRsLr11Pjbq0sVs8_TC9&ust=1731152771877000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJi7geLUzIkDFQAAAAAdAAAAABBO" width="300" />
       </a> 
   </tr>
 </table>
