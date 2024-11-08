@@ -101,7 +101,7 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
         <h4 style="margin: 10px 0; font-size: 16px; text-align: center;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
         <a href="https://github.com/juliamartin0/pharma_sales.git">
-          <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
+          <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="600" />
         </a>
       </div>
     </td>
