@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
       </a>
     </td>
     <td style="text-align: center;">
-      <h4 style="margin: 10 px 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
+      <h4 style="margin: 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
         <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
       </a>
@@ -84,3 +84,27 @@ You can click the Preview link to take a look at your changes.
 
 
 #
+
+## Latest Projects
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <div style="width: 300px; margin: auto;">
+        <h4 style="margin: 10px 0; font-size: 16px; text-align: center;">Temporal Analysis of Pharmaceutical Sales</h4>
+        <a href="https://github.com/juliamartin0/pharma_sales.git">
+          <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
+        </a>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div style="width: 300px; margin: auto;">
+        <h4 style="margin: 10px 0; font-size: 16px; text-align: center;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
+        <a href="https://github.com/juliamartin0/pharma_sales.git">
+          <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
