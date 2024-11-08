@@ -63,6 +63,28 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+## Latest Projects
+
+<div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
+
+  <div style="text-align: center;">
+    <h4 style="margin: 0;">Temporal Analysis of Pharmaceutical Sales</h4>
+    <a href="https://github.com/juliamartin0/pharma_sales.git">
+      <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <h4 style="margin: 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
+    <a href="https://github.com/juliamartin0/pharma_sales.git">
+      <img src="https://hospitallosmadronos.es/wp-content/uploads/2019/03/hipertension_unidad_cardiaca.jpg" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
+    </a>
+  </div>
+
+</div>
+
+
+
 
 
 #
