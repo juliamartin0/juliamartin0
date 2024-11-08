@@ -44,25 +44,6 @@ You can click the Preview link to take a look at your changes.
 
 #
 
-
-## Latest Projects
-
-
-<div style="text-align: center;">
-  <h4 style="margin: 0;">Temporal Analysis of Pharmaceutical Sales</h4>
-  <a href="https://github.com/juliamartin0/pharma_sales.git">
-    <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
-  </a>
-</div>
-
-<div style="text-align: center;">
-  <h4 style="margin: 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
-  <a href="https://github.com/juliamartin0/pharma_sales.git">
-    <img src=https://hospitallosmadronos.es/wp-content/uploads/2019/03/hipertension_unidad_cardiaca.jpg" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
-  </a>
-</div>
-
-
 ## Latest Projects
 
 <table>
@@ -74,8 +55,9 @@ You can click the Preview link to take a look at your changes.
         <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
       </a>
     </td>
-    <td style="text-align: center;">
-      <h4 style="margin: 0;">Heart Disease: a 10-year Prediction Model</h4>
+    <td style="text-align: center; vertical-align: top;">
+      <div style="width: 300px; margin: auto;">
+      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;">Heart Disease: a 10-year Prediction Model</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
         <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="Heart Disease: a 10-year Prediction Model" width="300" />
       </a>
