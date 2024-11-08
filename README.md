@@ -59,17 +59,16 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Sentiment Analysis: USA Elections 2024</h4>
       <a href="https://github.com/juliamartin0/elections_2024.git">
-        <img src="https://img.freepik.com/premium-vector/presidential-election-2024-background-design-template-with-usa-flag-vote-usa-flag-banner-design_600409-3109.jpg" alt="Sentiment Analysis Elections 2024" width="300" />
+        <img src="https://epe.brightspotcdn.com/dims4/default/b875b27/2147483647/strip/true/crop/7165x4862+814+0/resize/840x570!/format/webp/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Ff8%2F5e%2Fffb92dad41fda624eb1d29a37e27%2Fvoting-2098408713.jpg" alt="Sentiment Analysis Elections 2024" width="300" />
       </a>
     </td>
      <td style="text-align: center; vertical-align: top;">
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Sentiment Analysis: USA Elections 2024</h4>
       <a href="https://github.com/juliamartin0/elections_2024.git">
-        <img src="https://www.shutterstock.com/image-vector/2024-united-states-america-presidential-260nw-2219724891.jpg" width="300" />
+        <img src="https://img.freepik.com/premium-vector/presidential-election-2024-background-design-template-with-usa-flag-vote-usa-flag-banner-design_600409-3109.jpg" width="300" />
       </a> 
   </tr>
 </table>
-
 
 #
