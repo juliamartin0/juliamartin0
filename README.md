@@ -74,9 +74,9 @@ You can click the Preview link to take a look at your changes.
       </a>
     </td>
     <td style="text-align: center;">
-      <h4 style="margin: 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
+      <h4 style="margin: 10 px 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
-        <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="250" height="150" style="object-fit: cover;" />
+        <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
       </a>
     </td>
   </tr>
