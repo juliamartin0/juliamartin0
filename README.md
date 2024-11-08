@@ -67,23 +67,21 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <!-- Primer proyecto -->
-    <td style="text-align: center; vertical-align: top;">
-      <h4 style="margin: 10px 0;">Temporal Analysis of Pharmaceutical Sales</h4>
+    <td style="text-align: center;">
+      <h4 style="margin: 0;">Temporal Analysis of Pharmaceutical Sales</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
-        <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="250" height="150" style="object-fit: cover;" />
+        <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
       </a>
     </td>
-
-    <!-- Segundo proyecto -->
-    <td style="text-align: center; vertical-align: top;">
-      <h4 style="margin: 10px 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
+    <td style="text-align: center;">
+      <h4 style="margin: 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
-        <img src="https://hospitallosmadronos.es/wp-content/uploads/2019/03/hipertension_unidad_cardiaca.jpg" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="250" height="150" style="object-fit: cover;" />
+        <img src="https://hospitallosmadronos.es/wp-content/uploads/2019/03/hipertension_unidad_cardiaca.jpg" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
