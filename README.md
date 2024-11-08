@@ -55,11 +55,11 @@ You can click the Preview link to take a look at your changes.
         <img src="https://e-quironsalud.es/255-large_default/consulta-de-cardiologia-electrocardiogra-ecocardiograma.webp" alt="Heart Disease: a 10-year Prediction Model" width="300" />
       </a>
     </td>
-    <td style="text-align: center; vertical-align: top;">
+     <td style="text-align: center; vertical-align: top;">
       <div style="width: 300px; margin: auto;">
-      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;">Temporal Analysis of Pharmaceutical Sales</h4>
-      <a href="https://github.com/juliamartin0/pharma_sales.git">
-        <img src="https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Tidswell-FI.jpg" alt="Temporal Analysis of Pharmaceutical Sales" width="300" />
+      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;">Sentiment Analysis Elections 2024</h4>
+      <a href="https://github.com/juliamartin0/elections_analysis.git">
+        <img src="https://cz.usembassy.gov/wp-content/uploads/sites/22/00Good-1140x684.jpg" alt="Sentiment Analysis Elections 2024" width="300" />
       </a>
   </tr>
 </table>
