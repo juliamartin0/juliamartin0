@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Sentiment Analysis: USA Elections 2024</h4>
       <a href="https://github.com/juliamartin0/elections_2024.git">
-        <img src="https://img.freepik.com/premium-vector/presidential-election-2024-background-design-template-with-usa-flag-vote-usa-flag-banner-design_600409-3109.jpg" alt="Sentiment Analysis Elections 2024" width="300" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketbrief.edweek.org%2Feducation-market%2Fwhat-state-elections-will-mean-for-the-education-market%2F2024%2F11&psig=AOvVaw0taRsLr11Pjbq0sVs8_TC9&ust=1731152771877000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJi7geLUzIkDFQAAAAAdAAAAABA5" alt="Sentiment Analysis Elections 2024" width="300" />
       </a> 
   </tr>
 </table>
