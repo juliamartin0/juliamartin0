@@ -76,17 +76,11 @@ You can click the Preview link to take a look at your changes.
     <td style="text-align: center;">
       <h4 style="margin: 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
       <a href="https://github.com/juliamartin0/pharma_sales.git">
-        <img src="https://hospitallosmadronos.es/wp-content/uploads/2019/03/hipertension_unidad_cardiaca.jpg" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
+        <img src="https://hospitallosmadronos.es/wp-content/uploads/2019/03/cardiologia-cirugia-cardiaca-unidad-corazon.jpg" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
       </a>
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 
 #
