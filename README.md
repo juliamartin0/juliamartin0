@@ -58,8 +58,11 @@ You can click the Preview link to take a look at your changes.
 <div style="text-align: center;">
   <h4 style="margin: 0;">10-Year Heart Disease Prediction Using Logistic Regression</h4>
   <a href="https://github.com/juliamartin0/pharma_sales.git">
-    <img src="https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2018/2/pills.jpg" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
+    <img src=![image](https://github.com/user-attachments/assets/470b8843-6701-48d0-8bc0-6eda3e8d6272)" alt="10-Year Heart Disease Prediction Using Logistic Regression" width="300" />
   </a>
 </div>
+
+
+
 
 #
