@@ -57,9 +57,9 @@ You can click the Preview link to take a look at your changes.
     </td>
      <td style="text-align: center; vertical-align: top;">
       <div style="width: 300px; margin: auto;">
-      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Instacart</h4>
-      <a href="https://github.com/juliamartin0/elections_2024.git">
-        <img src="https://www.led.com/sites/led/files/styles/large/public/images/how-is-the-grocery-store-footprint-changing-850x567.jpg?itok=Ky-MLRIW" alt="Sentiment Analysis Elections 2024" width="300" />
+      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> The Instacart Blueprint: Trends, Patterns, and Insights</h4>
+      <a href="https://github.com/juliamartin0/instacart.git">
+        <img src="https://www.led.com/sites/led/files/styles/large/public/images/how-is-the-grocery-store-footprint-changing-850x567.jpg?itok=Ky-MLRIW" alt="The Instacart Blueprint: Trends, Patterns, and Insights" width="300" />
       </a>
     </td>
      <td style="text-align: center; vertical-align: top;">
