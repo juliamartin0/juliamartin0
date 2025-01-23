@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Sentiment Analysis: USA Elections 2024</h4>
       <a href="https://github.com/juliamartin0/elections_2024.git">
-        <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2015/12/140393-como-descargar-miles-peliculas-gratis-libres-derechos.jpg?tf=3840x" width="300" />
+        <img src="https://forum-cdn.knime.com/uploads/default/original/3X/6/e/6e1b447ce04fc4a70dca63b693bff66e8e79939d.jpeg" width="300" />
       </a> 
   </tr>
 </table>
