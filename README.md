@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
     </td>
      <td style="text-align: center; vertical-align: top;">
       <div style="width: 300px; margin: auto;">
-      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Sentiment Analysis: USA Elections 2024</h4>
+      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> MovieLens Recommendator</h4>
       <a href="https://github.com/juliamartin0/elections_2024.git">
         <img src="https://myareanetwork-photos.s3.amazonaws.com/editorphotos/f/47672_1672794503.jpg" width="300" />
       </a> 
