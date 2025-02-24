@@ -75,6 +75,6 @@ You can click the Preview link to take a look at your changes.
     <td style="text-align: center; vertical-align: top;">
       <div style="width: 300px; margin: auto;">
       <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;">Real Impact of Minimum Wage Increases</h4>
-      <a href="https://github.com/juliamartin0/pharma_sales.git">
+      <a href="https://github.com/juliamartin0/minimum-wage-impact.git">
         <img src="https://cdn.24.co.za/files/Cms/General/d/7259/982c081b54cb4bfe8fbbea3f2fe137b6.jpg" alt="Heart Disease: a 10-year Prediction Model" width="300" />
       </a>
