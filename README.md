@@ -74,7 +74,7 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td style="text-align: center; vertical-align: top;">
       <div style="width: 300px; margin: auto;">
-      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> The Impact of Minimum Wage Increases</h4>
-      <a href="https://github.com/juliamartin0/minimum-wage-impact.git">
-        <img src="https://cdn.24.co.za/files/Cms/General/d/7259/982c081b54cb4bfe8fbbea3f2fe137b6.jpg" alt="Heart Disease: a 10-year Prediction Model" width="300" />
+      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Fake News </h4>
+      <a href="https://github.com/juliamartin0/fake_news">
+        <img src="https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8EF3/production/_104359563_fake.png.webp" alt="Fake News" width="300" />
       </a>
