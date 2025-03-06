@@ -64,9 +64,9 @@ You can click the Preview link to take a look at your changes.
     </td>
      <td style="text-align: center; vertical-align: top;">
       <div style="width: 300px; margin: auto;">
-      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> Building a Movie Recommender System</h4>
-      <a href="https://github.com/juliamartin0/Movie-Recommendation-System.git">
-        <img src="https://myareanetwork-photos.s3.amazonaws.com/editorphotos/f/47672_1672794503.jpg" width="300" />
+      <h4 style="margin: 0; padding-bottom: 10px; font-size: 16px; text-align: center;"> The Impact of Minimum Wage Increases</h4>
+      <a href="https://github.com/juliamartin0/minimum-wage-impact.git">
+        <img src="https://cdn.24.co.za/files/Cms/General/d/7259/982c081b54cb4bfe8fbbea3f2fe137b6.jpg" alt="The Impact of Minimum Wage Increases" width="300" />
       </a> 
   </tr>
         
