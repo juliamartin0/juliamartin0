@@ -10,7 +10,7 @@
 - 🌱 Right now, I’m diving deeper into deep learning and model deployment.
 - 💞️ I’m looking to collaborate on projects with other data scientists, learn along the way, and keep improving my skills.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/juliamarur) or drop me an email at: juliadatascience24@gmail.com
-- ⚡ Fun fact: Analytical by nature, creative at heart; I love cooking, sewing, drawing, and painting.
+- ⚡ Fun fact: Analytical by nature, creative at heart! I love cooking, sewing, drawing, and painting.
 
 
 
